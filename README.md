@@ -30,3 +30,7 @@ void loop() {
 we made a spinning wheel that you can put a car in it and it will roll
 ### are we on track
 we have completed the assignment and submitted it
+### what progress have we made
+we have made the stand better by having it use less materials and you can now see what is happening in the wheel
+### what do we have to do next
+we have to mount the servo and put the new stands on
