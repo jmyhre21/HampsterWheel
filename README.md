@@ -34,3 +34,9 @@ we have completed the assignment and submitted it
 we have made the stand better by having it use less materials and you can now see what is happening in the wheel
 ### what do we have to do next
 we have to mount the servo and put the new stands on
+### how is it going
+we are done and good
+### major obsticles
+putting it together
+### When I return from Spring break, the first thing I'm going to do is print out the things and put them together  
+ 
