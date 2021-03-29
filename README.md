@@ -38,5 +38,5 @@ we have to mount the servo and put the new stands on
 we are done and good
 ### major obsticles
 putting it together
-### When I return from Spring break, the first thing I'm going to do is print out the things and put them together  
+### When we return from Spring break, the first thing we're going to do is print out the things and put them together  
  
